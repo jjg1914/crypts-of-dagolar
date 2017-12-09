@@ -1,0 +1,10 @@
+{
+  "include": [
+    "assets/paths/*.json",
+    "assets/sprites/*.json",
+    "assets/tilesets/*.json",
+    "assets/stages/*.tmx",
+    "src/entities/*.ts"
+  ],
+  "exclude": [ "_*" ]
+}
