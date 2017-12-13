@@ -3,6 +3,7 @@
     "assets/paths/*.json",
     "assets/sprites/*.json",
     "assets/tilesets/*.json",
+    "assets/tilesets/*.tsx",
     "assets/stages/*.tmx",
     "src/entities/*.ts"
   ],
